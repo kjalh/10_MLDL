@@ -1,0 +1,17 @@
+# 10_MLDL - Python 의존성 및 실행 환경 안내
+# 설치: python -m pip install -r requirment_AC01.txt
+# 코드/노트북과 기존 설정을 기준으로 작성. 설치 및 실행 검증 전이며 버전은 별도 검증 필요.
+
+Pillow
+matplotlib
+numpy
+pandas
+seaborn
+scikit-learn
+torch
+torchvision
+
+# 노트북/대화형 실행 지원
+ipykernel
+
+# torch/torchvision 및 관련 모델 패키지는 사용 환경에 맞는 호환 버전 확인 필요.
